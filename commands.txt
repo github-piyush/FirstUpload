@@ -9,3 +9,6 @@ git config --global user.name "Piyush Deshmukh"
 6. git push origin master
 7. git clone repoName
 8. git pull origin master
+
+
+repoName is your repository link.
