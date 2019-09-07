@@ -4,7 +4,7 @@ git config --global user.name "Piyush Deshmukh"
 1. git init
 2. git add [filename] || -A
 3. git status
-4. git commit -m "message"
+4. git commit -m "message"              //To take snapshot like a FLAG
 5. git remote add origin repoName
 6. git push origin master
 7. git clone repoName
